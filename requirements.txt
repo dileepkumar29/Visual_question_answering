@@ -1,6 +1,0 @@
-streamlit
-transformers
-pillow
-torch
-BlipProcessor
-BlipForQuestionAnswering
